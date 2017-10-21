@@ -1,0 +1,9 @@
+{
+  "name": "Welcome",
+  "version": "0.0.1",
+  "description": "A React component to welcome a user",
+  "main": "index.js",
+  "repository": "https://github.com/mateoholman/react-welcome",
+  "author": "Matthew Holman",
+  "license": "MIT"
+}
